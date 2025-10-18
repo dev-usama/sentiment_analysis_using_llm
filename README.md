@@ -1,9 +1,10 @@
 ## Libraries
-Pandas
-Spacy
+1. Pandas
+2. Spacy
 
 ## Dataset
-Dataset has movie reviews downloaded from Kaggle
+Dataset has movie reviews downloaded from Kaggle \n
+https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews?resource=download
 
 ## Text Preprocessing
 
