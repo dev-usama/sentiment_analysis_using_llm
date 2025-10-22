@@ -1,15 +1,13 @@
 ## Libraries
 1. Pandas
-2. Spacy
+2. Transformers
+3. Numpy
 
 ## Dataset
 Dataset has movie reviews downloaded from Kaggle \n
 https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews?resource=download
 
-## Text Preprocessing
+## Model Selection
+1. I trained pretrained models from hugging face model hub
+2. distilbert gave 53% accuracy
 
-Text processing includes the following steps:
-1. Text cleaning (Remove punctuation, making text lower case, & removing brackets) using Pandas
-2. Tokenization using Spacy
-3. Lemmatization using Spacy
-4. Removing stop words using Spacy
